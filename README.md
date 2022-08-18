@@ -1,2 +1,2 @@
 # mern-stack-starter-project
-### This a mern stack project used 
+### This a mern stack project for your starter project
