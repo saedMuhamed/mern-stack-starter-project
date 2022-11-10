@@ -1,4 +1,4 @@
-# Mern Stack Starter project 
+# MERN WStack Starter project 
 ### This a mern stack project for your starter project
 
 
